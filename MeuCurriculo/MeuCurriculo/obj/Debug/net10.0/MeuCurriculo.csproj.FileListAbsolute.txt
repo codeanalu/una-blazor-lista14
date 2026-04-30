@@ -1,0 +1,9 @@
+C:\Users\analu\Documents\MeuCurriculo\MeuCurriculo\obj\Debug\net10.0\EmbeddedAttribute.cs
+C:\Users\analu\Documents\MeuCurriculo\MeuCurriculo\obj\Debug\net10.0\ValidatableTypeAttribute.cs
+C:\Users\analu\Documents\MeuCurriculo\MeuCurriculo\obj\Debug\net10.0\MeuCurriculo.csproj.AssemblyReference.cache
+C:\Users\analu\Documents\MeuCurriculo\MeuCurriculo\obj\Debug\net10.0\rpswa.dswa.cache.json
+C:\Users\analu\Documents\MeuCurriculo\MeuCurriculo\obj\Debug\net10.0\MeuCurriculo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\analu\Documents\MeuCurriculo\MeuCurriculo\obj\Debug\net10.0\MeuCurriculo.AssemblyInfoInputs.cache
+C:\Users\analu\Documents\MeuCurriculo\MeuCurriculo\obj\Debug\net10.0\MeuCurriculo.AssemblyInfo.cs
+C:\Users\analu\Documents\MeuCurriculo\MeuCurriculo\obj\Debug\net10.0\MeuCurriculo.csproj.CoreCompileInputs.cache
+C:\Users\analu\Documents\MeuCurriculo\MeuCurriculo\obj\Debug\net10.0\MeuCurriculo.MvcApplicationPartsAssemblyInfo.cache
