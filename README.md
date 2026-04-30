@@ -7,6 +7,6 @@ PARA CRIAR: Abra o terminal(cmd) -> Entre na pasta de documentos (cd Documents) 
 
 -Heuristica 10: Ajuda e documentação: Embora o sistema deva ser fácil de usar sem documentação, ela deve ser fácil de buscar e focada na tarefa do usuário.
 
-![Foto do meu terminal](./PRINTCURRICULO.png)
+![Foto do meu terminal](./IMPRESSÃOCURRICULO.png)
 
-![Foto do meu terminal](./PRINTCURRICULO2.png)
+![Foto do meu terminal](./CURRÍCULOIMPRESSO2.png)
